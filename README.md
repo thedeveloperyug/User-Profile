@@ -1,12 +1,17 @@
 ### ScreenShot 
 <img src="profile.png"/>
-## To Run this project: 
 
+
+### To Run this project: 
+Node js version = v18.16.1
 In the project directory, you can run:
 
 ### `npm install`
 ### `npm install -D tailwindcss`
 ### `npx tailwindcss init`
+
+Note:If you got error from create-react-app then install:
+ ### `npm install create-react-app`
 
 
 Configure your template paths
