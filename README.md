@@ -6,12 +6,16 @@
 Node js version = v18.16.1
 In the project directory, you can run:
 
+Note:If you got error from create-react-app then install or skip this if you don't want to create new app:
+ ### `npm install create-react-app`
+
+ Go to your Project Directory:
+Enter:
 ### `npm install`
 ### `npm install -D tailwindcss`
 ### `npx tailwindcss init`
 
-Note:If you got error from create-react-app then install:
- ### `npm install create-react-app`
+
 
 
 Configure your template paths
